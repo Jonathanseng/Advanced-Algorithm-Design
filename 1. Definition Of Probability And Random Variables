@@ -1,0 +1,19 @@
+**Probability** is a measure of the likelihood that an event will occur. It is a number between 0 and 1, where 0 means the event is impossible and 1 means the event is certain. For example, the probability of flipping a coin and getting heads is 0.5, because there is a 50% chance of getting heads.
+
+**Random variable** is a variable whose value is determined by chance. It can take on any number of possible values, and the probability of each value occurring can be determined. For example, the number of heads that come up when you flip a coin 10 times is a random variable. The possible values are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10 heads, and the probability of each value occurring can be determined using probability theory.
+
+Random variables are used in a wide variety of fields, including statistics, probability, finance, and engineering. They are used to model random phenomena, such as the weather, stock prices, and traffic patterns. Random variables can also be used to make predictions about future events, such as the probability of rain tomorrow or the likelihood of a stock price going up or down.
+
+Here are some examples of random variables:
+
+* The number of heads that come up when you flip a coin 10 times.
+* The time it takes for a light bulb to burn out.
+* The number of cars that pass a certain point on a highway in an hour.
+* The height of a randomly selected person.
+* The weight of a randomly selected package.
+
+Random variables can be classified as **discrete** or **continuous**. A discrete random variable can only take on a finite number of values, or an infinite number of values that are separated by gaps. For example, the number of heads that come up when you flip a coin 10 times is a discrete random variable. It can only take on the values 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10.
+
+A continuous random variable can take on any value within a given range. For example, the weight of a randomly selected person is a continuous random variable. It can take on any value between the minimum and maximum weight of a human being.
+
+Random variables are an important concept in probability and statistics. They are used to model random phenomena, make predictions about future events, and make decisions under uncertainty.
